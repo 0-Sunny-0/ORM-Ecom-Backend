@@ -4,11 +4,11 @@
 
 - [Description](#description)<br>
 - [Links](#links)<br>
+- [Visuals](#visuals)<br>
 - [Installation](#Installation)<br>
 - [Usage](#Usage)<br>
 - [Contributing](#Contributing)<br>
 - [License](#license)<br>
-- [Tests](#Tests)<br>
 - [Questions](#Questions)<br>
 
 ## Description
@@ -18,8 +18,11 @@
 <a href="https://github.com/0-Sunny-0/ORM-Ecom-Backend">Github Repo Link</a><br>
 <a href="">Recorded Video</a><br>
 
+## Visuals
+
 ## Installation
 
+To run this application, in your integrated terminal use the command npm install for necessary dependencies. 
 
 ## Usage
 
