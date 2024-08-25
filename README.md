@@ -22,7 +22,7 @@
 
 ## Installation
 
-To run this application, in your integrated terminal use the command npm install for necessary dependencies. 
+To run this application, in your integrated terminal, use the command npm install for necessary dependencies. 
 
 ## Usage
 
