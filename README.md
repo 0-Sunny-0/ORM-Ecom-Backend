@@ -19,6 +19,11 @@
 <a href="">Recorded Video</a><br>
 
 ## Visuals
+<!-- CHANGE OUT THE LINKS FOR THE IMAGES ONCE TESTED -->
+<img src="./README_images/GetRequestRoute.png" width="675px" height="600px" alt="image of get request in insomnia" />
+<img src="" width="675px" height="600px" alt="image of post request in insomnia" /><br>
+<img src="" width="675px" height="600px" alt="image of delete request in insomnia" />
+<img src="" width="675px" height="600px" alt="image of update request in insomnia" /><br>
 
 ## Installation
 
